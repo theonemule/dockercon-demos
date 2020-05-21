@@ -1,0 +1,8 @@
+FROM ubuntu
+RUN apt-get update && \
+	apt-get install -y abiword gnupg apt-transport-https wget software-properties-common && \
+	wget -q https://xpra.org/gpg.asc -O- | apt-key add - && \
+	add-apt-repository "deb https://xpra.org/ bionic main" && \
+	apt-get update && \
+	apt-get install -y xpra
+CMD xpra start --start=abiword --bind-tcp=0.0.0.0:10000 --html=on && tail -f /dev/null

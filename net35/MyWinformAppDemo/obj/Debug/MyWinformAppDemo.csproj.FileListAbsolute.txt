@@ -1,0 +1,20 @@
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.exe
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.pdb
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.Form1.resources
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.Properties.Resources.resources
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.csproj.GenerateResource.Cache
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.exe
+C:\Users\blaize\AppData\Local\Temporary Projects\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.pdb
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.exe.manifest
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.application
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.exe
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\bin\Debug\MyWinformAppDemo.pdb
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.Form1.resources
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.Properties.Resources.resources
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.csproj.GenerateResource.Cache
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.exe.manifest
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.application
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.exe
+C:\Users\blaize\Documents\Visual Studio 2008\Projects\MyWinformAppDemo\MyWinformAppDemo\obj\Debug\MyWinformAppDemo.pdb

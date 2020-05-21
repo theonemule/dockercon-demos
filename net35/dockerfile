@@ -1,0 +1,2 @@
+FROM net35
+CMD wine /MyApp.exe
